@@ -1,5 +1,3 @@
-# Padroes_De_Projeto
-
 # Padrão Comportamental: Observer
 
 Problema: Um objeto precisa notificar outros objetos sobre mudanças em seu estado.
