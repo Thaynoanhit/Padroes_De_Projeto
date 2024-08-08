@@ -6,8 +6,6 @@ Solução: O padrão Observador define uma dependência um-para-muitos entre obj
 
 ![Observer](Observer/Observer.png)
 
-Exemplo: https://github.com/Thaynoanhit/Padroes_De_Projeto/blob/main/Observer/observador.py
-
 # Padrão Criacional: Factory Method
 
 Problema: Uma classe precisa criar objetos de classes diferentes, mas o tipo de objeto a ser criado não é conhecido até o tempo de execução.
