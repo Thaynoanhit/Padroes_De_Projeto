@@ -1,6 +1,6 @@
 # Padroes_De_Projeto
 
-Padrão Comportamental: Observer
+# Padrão Comportamental: Observer
 
 Problema: Um objeto precisa notificar outros objetos sobre mudanças em seu estado.
 
@@ -8,7 +8,7 @@ Solução: O padrão Observador define uma dependência um-para-muitos entre obj
 
 ![Observer](Observer/Observer.png)
 
-Padrão Criacional: Factory Method
+# Padrão Criacional: Factory Method
 
 Problema: Uma classe precisa criar objetos de classes diferentes, mas o tipo de objeto a ser criado não é conhecido até o tempo de execução.
 
@@ -16,7 +16,7 @@ Solução: O padrão Factory Method fornece uma maneira de encapsular a criaçã
 
 ![Factory_Method](<Factory_Method/Factory Method.png>)
 
-Padrão Estrutural: Adapter
+# Padrão Estrutural: Adapter
 
 Problema: Dois objetos incompatíveis precisam trabalhar juntos, mas eles têm interfaces diferentes.
 
