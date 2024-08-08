@@ -16,6 +16,8 @@ Solução: O padrão Factory Method fornece uma maneira de encapsular a criaçã
 
 ![Factory_Method](<Factory_Method/Factory Method.png>)
 
+[Exemplo](https://github.com/Thaynoanhit/Padroes_De_Projeto/blob/main/Factory_Method/Factory_Method.py)
+
 # Padrão Estrutural: Adapter
 
 Problema: Dois objetos incompatíveis precisam trabalhar juntos, mas eles têm interfaces diferentes.
@@ -24,3 +26,4 @@ Solução: O padrão Adapter converte a interface de um objeto em uma interface 
 
 ![Adapter](Adapter/Adapter.png)
 
+[Exemplo](https://github.com/Thaynoanhit/Padroes_De_Projeto/blob/main/Adapter/Adapter.py)
